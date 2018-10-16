@@ -11,7 +11,7 @@ Provide a weatherproof outdoor cubicle for housing the main switch and distribut
 1CDQL,MS,Electricity Ordinance,"Departure:
 Main switch live parts not properly enclosed or insulated.","Rectification Tips:
 Main switch live parts shall be properly enclosed or insulated.",,,,,
-1CIXI,Main Switch,Electricity ordinance,"Departure:
+1CIXI,Main Switch,,"Departure:
 Main cables not mechanically protected.","Rectification Tips:
 Main cables shall be mechanically protected.",,,,,
 1CPRL,Main Switch,Electricity Ordinance,"Departure:
@@ -227,7 +227,7 @@ Confirm the correct service address and amend with legal document at customer ce
 2INAA,Pre-Inspection Check,SR,"Departure:
 Whole installation inaccessible for inspection.","Rectification Tips:
 Whole installation shall be accessible for inspection.",,,,,
-2INZB,PIC,Supply Rule,"Departure:
+2INZB,PIC,,"Departure:
 Load transfer not completed.","Rectification Tips:
 Load transfer shall be completed.",,,,,
 2INZE,Pre-Inspection Check,Supply Rule,"Departure:
@@ -491,7 +491,7 @@ Lighting point for meter room shall be provided.",,,,,
 2RMSF,Rising Mains,Supply Rule,"Departure:
 Local riser switch for multi-customer rising mains at each tower not installed.","Rectification Tips:
 Install local riser switch for multi-customer rising mains at each tower.",,,,,
-2INXS,Other,Supply Rule,"Departure:
+2INXS,Other,,"Departure:
 Miscellaneous uncommon departures.","Rectification Tips:
 Rectify the defect to meet the requirements of HK Electric's Supply Rules..",,,,,
 ,,,,,,,,,
